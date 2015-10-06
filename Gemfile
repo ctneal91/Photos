@@ -49,3 +49,4 @@ gem 'bootstrap-sass', '~> 3.3.5'
 gem "refile", require: "refile/rails"
 gem "refile-mini_magick"
 gem "refile-postgres"
+gem "simple_form"
